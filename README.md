@@ -1,2 +1,2 @@
 # bsd-mirrors
-Set mirrors site for my FreeBSD
+Switch FreeBSD source to mirror sites in china.
